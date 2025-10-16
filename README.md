@@ -58,7 +58,7 @@
 
 | Project | Tech & Highlights | Link |
 |---------|-----------------|------|
-| 💻 **SoloLuck** | NextJs + Tailwind + Node.js + VPS + API + Blockchain| [Live](https://www.sololuck.com/) 
+| 💻 **SoloLuck** | NextJs, Tailwind, Node.js, VPS, API, Blockchain, Git| [Live](https://www.sololuck.com/) 
 | 🦾 **SWAP (Sewage Waste Analyzer & Predictor) 2020** | NodeMCU, TF, Cloud | Offline
 | 🤖 **Automatic plant watering system with ambient temperature control 2018** | NodeMCU, Sensors | Offline
 | 🤖 **Voice assisted home automation using Google Assistant 2017** | NodeMCU, IFTTT, Blynk | Offline
