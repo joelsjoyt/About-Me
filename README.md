@@ -71,15 +71,15 @@
 - [RL Completion (2025)](https://www.udemy.com/certificate/UC-287cb0c8-21b4-456b-8cae-a319cb808328/)
 
 #### ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) 
-- [Google Cloud Fundamentals: Core Infrastructure 2018](https://coursera.org/verify/VZKVLZ26268C)
-- [Essential Google Cloud Infrastructure: Foundation 2018](https://coursera.org/verify/7PGRSUPEGYCU)
-- [Reliable Google Cloud Infrastructure: Design and Process 2018](https://coursera.org/verify/BMZ4WST2NH9H)
-- [Elastic Google Cloud Infrastructure: Scaling and Automation 2018](https://coursera.org/verify/TZ9Q4A5J7WHT)
-- [Essential Google Cloud Infrastructure: Core Services 2018](https://coursera.org/verify/CNTCNFQJDGU9)
-- [Elastic Cloud Infrastructure: Containers and Services 2018](https://coursera.org/verify/QGTWLP7W5M9M)
+- [Google Cloud Fundamentals: Core Infrastructure (2018)](https://coursera.org/verify/VZKVLZ26268C)
+- [Essential Google Cloud Infrastructure: Foundation (2018)](https://coursera.org/verify/7PGRSUPEGYCU)
+- [Reliable Google Cloud Infrastructure: Design and Process (2018)](https://coursera.org/verify/BMZ4WST2NH9H)
+- [Elastic Google Cloud Infrastructure: Scaling and Automation (2018)](https://coursera.org/verify/TZ9Q4A5J7WHT)
+- [Essential Google Cloud Infrastructure: Core Services (2018)](https://coursera.org/verify/CNTCNFQJDGU9)
+- [Elastic Cloud Infrastructure: Containers and Services (2018)](https://coursera.org/verify/QGTWLP7W5M9M)
 
 #### ![Ui Academy](https://img.shields.io/badge/Ui_Academy-FF6F00?style=for-the-badge&logo=UiPath&logoColor=auto)
-- RPA Developer – SAP Automation – Mar 2020
+- RPA Developer – SAP Automation (2020)
 
 #### ![PadhAI](https://img.shields.io/badge/PadhAI-FF5733?style=for-the-badge&logo=onefourthlabs&logoColor=white) 
 - Deep Learning 2020
@@ -88,7 +88,7 @@
 
 ### 📚 Research Papers
 
-- 📝 [ALIS - Advanced Logical Intelligent System March-April 2019](https://doi.org/10.30534/ijiscs/2019/23822019)  
+- 📝 [ALIS - Advanced Logical Intelligent System (https://doi.org/10.30534/ijiscs/2019/23822019)  
 - 📝 [LIAM - Logistic and Intelligent Agricultural Model](https://doi.org/10.30534/ijacst/2020/01962020 )  
 
 ---
