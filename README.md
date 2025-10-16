@@ -66,19 +66,19 @@
 
 ### 🎓 Certificates
 
-#### Udemy
-- ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=auto) [RL Completion (2025)](https://www.udemy.com/certificate/UC-287cb0c8-21b4-456b-8cae-a319cb808328/)
+#### ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=auto)
+- [RL Completion (2025)](https://www.udemy.com/certificate/UC-287cb0c8-21b4-456b-8cae-a319cb808328/)
 
-#### 🟦 Coursera
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) [Google Cloud Fundamentals: Core Infrastructure](https://coursera.org/verify/VZKVLZ26268C)
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) [Essential Google Cloud Infrastructure: Foundation](https://coursera.org/verify/7PGRSUPEGYCU)
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) [Reliable Google Cloud Infrastructure: Design and Process](https://coursera.org/verify/BMZ4WST2NH9H)
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) [Elastic Google Cloud Infrastructure: Scaling and Automation](https://coursera.org/verify/TZ9Q4A5J7WHT)
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) [Essential Google Cloud Infrastructure: Core Services](https://coursera.org/verify/CNTCNFQJDGU9)
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) [Elastic Cloud Infrastructure: Containers and Services](https://coursera.org/verify/QGTWLP7W5M9M)
+#### ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) 
+- [Google Cloud Fundamentals: Core Infrastructure](https://coursera.org/verify/VZKVLZ26268C)
+- [Essential Google Cloud Infrastructure: Foundation](https://coursera.org/verify/7PGRSUPEGYCU)
+- [Reliable Google Cloud Infrastructure: Design and Process](https://coursera.org/verify/BMZ4WST2NH9H)
+- [Elastic Google Cloud Infrastructure: Scaling and Automation](https://coursera.org/verify/TZ9Q4A5J7WHT)
+- [Essential Google Cloud Infrastructure: Core Services](https://coursera.org/verify/CNTCNFQJDGU9)
+- [Elastic Cloud Infrastructure: Containers and Services](https://coursera.org/verify/QGTWLP7W5M9M)
 
-#### 🟧 Ui Academy
-- ![Ui Academy](https://img.shields.io/badge/Ui_Academy-FF6F00?style=for-the-badge&logo=UiPath&logoColor=auto) [RPA Developer – SAP Automation – Mar 2020]
+#### ![Ui Academy](https://img.shields.io/badge/Ui_Academy-FF6F00?style=for-the-badge&logo=UiPath&logoColor=auto)
+- [RPA Developer – SAP Automation – Mar 2020]
 
 ---
 
