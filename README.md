@@ -34,9 +34,9 @@
 
 #### ⚡ Backend & API
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=auto)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=auto)
-![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=swagger&logoColor=auto)
-![Hardhat](https://img.shields.io/badge/Hardhat-434343?style=for-the-badge&logo=hardhat&logoColor=auto)
+![Flask](https://img.shields.io/badge/Flask-6C6C6C?style=for-the-badge&logo=flask&logoColor=white)
+![API](https://img.shields.io/badge/API-61affe?style=for-the-badge&logo=swagger&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F0DB4F?style=for-the-badge&logo=hardhat&logoColor=black)
 
 #### 🖋 Scripting & Automation
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=auto)
