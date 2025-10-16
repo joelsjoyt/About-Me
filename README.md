@@ -106,11 +106,12 @@
 #### Udemy
 <ul>
   <li>
-    <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=auto" alt="Udemy" />
-    <a href="https://www.udemy.com/certificate/UC-287cb0c8-21b4-456b-8cae-a319cb808328/" target="_blank">RL Completion (2025)</a>
+    <a href="https://www.udemy.com/certificate/UC-287cb0c8-21b4-456b-8cae-a319cb808328/" target="_blank">
+      <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=auto" alt="Udemy" />
+      RL Completion (2025)
+    </a>
   </li>
 </ul>
-
 
 #### 🟦 Coursera
 - ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) [Google Cloud Fundamentals: Core Infrastructure](https://coursera.org/verify/VZKVLZ26268C)
