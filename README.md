@@ -27,6 +27,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=auto)
 
 #### 🌐 Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-6E6E6E?style=for-the-badge&logo=next.js&logoColor=auto)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=auto)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=auto)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -57,7 +58,7 @@
 
 | Project | Tech & Highlights | Link |
 |---------|-----------------|------|
-| 💻 **SoloLuck** | React + Tailwind + Node.js + VPS + API, Showcase & Projects | [Live](https://www.sololuck.com/) 
+| 💻 **SoloLuck** | NextJs + Tailwind + Node.js + VPS + API + Blockchain| [Live](https://www.sololuck.com/) 
 | 🦾 **SWAP (Sewage Waste Analyzer & Predictor) 2020** | NodeMCU, TF, Cloud | Offline
 | 🤖 **Automatic plant watering system with ambient temperature control 2018** | NodeMCU, Sensors | Offline
 | 🤖 **Voice assisted home automation using Google Assistant 2017** | NodeMCU, IFTTT, Blynk | Offline
