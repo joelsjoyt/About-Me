@@ -79,7 +79,7 @@
 - [Elastic Cloud Infrastructure: Containers and Services](https://coursera.org/verify/QGTWLP7W5M9M)
 
 #### ![Ui Academy](https://img.shields.io/badge/Ui_Academy-FF6F00?style=for-the-badge&logo=UiPath&logoColor=auto)
-- [RPA Developer – SAP Automation – Mar 2020]
+- RPA Developer – SAP Automation – Mar 2020
 
 ---
 
