@@ -88,7 +88,7 @@
 
 ### 📚 Research Papers
 
-- 📝 [ALIS - Advanced Logical Intelligent System (https://doi.org/10.30534/ijiscs/2019/23822019)  
+- 📝 [ALIS - Advanced Logical Intelligent System](https://doi.org/10.30534/ijiscs/2019/23822019)  
 - 📝 [LIAM - Logistic and Intelligent Agricultural Model](https://doi.org/10.30534/ijacst/2020/01962020 )  
 
 ---
