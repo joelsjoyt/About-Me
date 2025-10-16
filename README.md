@@ -81,6 +81,9 @@
 #### ![Ui Academy](https://img.shields.io/badge/Ui_Academy-FF6F00?style=for-the-badge&logo=UiPath&logoColor=auto)
 - RPA Developer – SAP Automation – Mar 2020
 
+#### ![PadhAI](https://img.shields.io/badge/PadhAI-FF5733?style=for-the-badge&logo=onefourthlabs&logoColor=white) 
+- Deep Learning 2020
+
 ---
 
 ### 📚 Research Papers
