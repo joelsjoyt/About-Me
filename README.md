@@ -13,80 +13,43 @@
 ---
 ### ⚙️ Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+#### 🖥 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=auto)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=auto)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=auto)
 
-<!-- Programming Languages -->
-<div style="flex: 1; min-width: 250px;">
-<h4>🖥 Programming Languages</h4>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40px" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=auto" height="40px" />
-</div>
+#### 🤖 AI & ML / Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=auto)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=auto)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=auto)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=auto)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=auto)
 
-<!-- AI & ML -->
-<div style="flex: 1; min-width: 250px;">
-<h4>🤖 AI & ML / Data Science</h4>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=auto" height="40px" />
-</div>
+#### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=auto)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=auto)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-</div>
+#### ⚡ Backend & API
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=auto)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=auto)
+![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=swagger&logoColor=auto)
+![Hardhat](https://img.shields.io/badge/Hardhat-434343?style=for-the-badge&logo=hardhat&logoColor=auto)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+#### 🖋 Scripting & Automation
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=auto)
+![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=auto)
+![VPS](https://img.shields.io/badge/VPS-4B0082?style=for-the-badge&logo=linux&logoColor=auto)
 
-<!-- Frontend -->
-<div style="flex: 1; min-width: 250px;">
-<h4>🌐 Frontend Development</h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40px" />
-</div>
+#### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=auto)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=auto)
 
-<!-- Backend & API -->
-<div style="flex: 1; min-width: 250px;">
-<h4>⚡ Backend & API</h4>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logo=swagger&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/Hardhat-434343?style=for-the-badge&logo=hardhat&logoColor=auto" height="40px" />
-</div>
-
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-
-<!-- Scripting & Automation -->
-<div style="flex: 1; min-width: 250px;">
-<h4>🖋 Scripting & Automation</h4>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/VPS-4B0082?style=for-the-badge&logo=linux&logoColor=auto" height="40px" />
-</div>
-
-<!-- Databases -->
-<div style="flex: 1; min-width: 250px;">
-<h4>🗄 Databases</h4>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=auto" height="40px" />
-</div>
-
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-
-<!-- Tools -->
-<div style="flex: 1; min-width: 250px;">
-<h4>🛠 Tools & Version Control</h4>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere&logoColor=auto" height="40px" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=auto" height="40px" />
-</div>
-
-</div>
+#### 🛠 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=auto)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere&logoColor=auto)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=auto)
 
 ---
 
