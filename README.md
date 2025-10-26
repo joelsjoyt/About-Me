@@ -26,6 +26,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=auto)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=auto)
 
+#### 🤖 Hardware & Robotics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-1A5A99?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-007ACC?style=for-the-badge&logo=esp32&logoColor=white)
+
 #### 🌐 Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-6E6E6E?style=for-the-badge&logo=next.js&logoColor=auto)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=auto)
