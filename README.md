@@ -69,6 +69,7 @@
 
 #### ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=auto)
 - [RL Completion (2025)](https://www.udemy.com/certificate/UC-287cb0c8-21b4-456b-8cae-a319cb808328/)
+- [Microcontroller Embedded C Programming: Absolute Beginners](https://www.udemy.com/certificate/UC-f8330eb1-5225-4aad-921c-7a3fb4e13757/)
 
 #### ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=auto) 
 - [Google Cloud Fundamentals: Core Infrastructure (2018)](https://coursera.org/verify/VZKVLZ26268C)
